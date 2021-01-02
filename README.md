@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh8tu&theme=midnight-purple&show_icons=true)
 
 > About me :
-> While you're reading this I'll be probably sleeping, listening to music or any podcast, binge watching any TV show or learning something yeah, that's it, you carry on, keep    digging my GitHub its all yours as of now, also i've something really cool to share in the next few days, brb, 
+> While you're reading this I'll probably be sleeping, listening to music or any podcast, binge watching any TV show or learning something yeah, that's it, you carry on, keep    digging my GitHub its all yours as of now, also i've something really cool to share in the next few days, brb, 
 
 > Let's Connect
 > 
