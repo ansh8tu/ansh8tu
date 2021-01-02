@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 
 
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh8tu&theme=midnight-purple&show_icons=true)
+
+> Let's Connect
+
+><a href="https://www.linkedin.com/in/anshuman-mishra-67b7a5190/"><img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a>
