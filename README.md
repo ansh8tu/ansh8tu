@@ -1,4 +1,4 @@
-### Hi there this is Anshuman Mishra👋
+### həˈlō this is Anshuman Mishra👋
 
 Here are some ideas to get you started:
 
