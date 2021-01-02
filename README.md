@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh8tu&theme=midnight-purple&show_icons=true)
 
+> About me :
+> While you're reading this I'll be probably sleeping, listening to music or any podcast, binge watching any TV show or learning something yeah, that's it, you carry on, keep    digging my GitHub its all yours as of now, also i've something really cool to share in the next few days, brb, 
+
 > Let's Connect
 > 
 > <a href="https://www.linkedin.com/in/anshuman-mishra-67b7a5190/"><img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a>  <a href="https://discord.com/channels/@me"><img src="https://i.ibb.co/hVNgVt8/download.jpg" alt="download" border="0"></a>
