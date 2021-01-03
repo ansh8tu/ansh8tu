@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 -->
 
 
+> Talking about my GitHub Stats, here we go,
+>
+>![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh8tu&theme=midnight-purple&show_icons=true) 
 
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh8tu&theme=midnight-purple&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh8tu&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> Most used Languages, learning some languages which will be reflected here in future, here we go,  
+>
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh8tu&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 > About me :
