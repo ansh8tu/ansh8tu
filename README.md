@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > Most used Languages, learning some languages which will be reflected here in future, here we go,  
 >
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh8tu&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh8tu&theme=midnight-purple&layout=compact)](https://github.com/ansh8tu/github-readme-stats)
 
 
 > About me :
