@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to contribute/collaborate to/with Open Source Projects
 - 🤔 I’m looking for help with flutter
 - 💬 Ask me about Algorithms and Programming
-- 📫 How to reach me: You can mail me at anshu8tu@gmail.com
+- 📫 How to reach me: Check out the link in bio
 - 😄 Pronouns: peter pan
 - ⚡ Fun fact: its 2021
 -->
