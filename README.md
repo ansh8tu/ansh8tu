@@ -1,4 +1,4 @@
-### həˈlō this is Anshuman Mishra // 19yo👋
+### həˈlō this is Anshuman Mishra 👋
 
 Here are some ideas to get you started:
 
