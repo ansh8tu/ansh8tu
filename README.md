@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="left">Talking about my GitHub stats, here we go : </h3>
+><h3 align="left">Talking about my GitHub stats, here we go : </h3>
+>
 >![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh8tu&theme=midnight-purple&show_icons=true) 
 
-<h3 align="left">Most used Languages, learning some languages which will be reflected here in future, here we go, </h3>
+><h3 align="left">Most used Languages, learning some languages which will be reflected here in future, here we go, </h3>
+>
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh8tu&theme=midnight-purple&layout=compact)](https://github.com/ansh8tu/github-readme-stats)
 
 >Current Streaks
