@@ -1,4 +1,4 @@
-<p align="center">  həˈlō this is Anshuman Mishra 👋</p>
+<h1 align="center"> həˈlō 👋, I'm Anshuman Mishra</h1>
 
 <p align="center">
   <a href="http://ansh8tu.github.io/">
