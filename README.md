@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning dart
+- 🔭 I’m currently working on GUI Development
+- 🌱 I’m currently learning Tkinter
 - 👯 I’m looking to contribute/collaborate to/with Open Source Projects
-- 🤔 I’m looking for help with flutter
+- 🤔 I’m looking for help with Python Modules 
 - 💬 Ask me about Algorithms and Programming
 - 📫 How to reach me: Check out the link in bio
 - 😄 Pronouns: peter pan
