@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 > Let's Connect
 > 
 > <a href="https://www.linkedin.com/in/anshuman-mishra-67b7a5190/"><img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a>  <a href="https://discordapp.com/users/748813142234234911/"><img src="https://i.ibb.co/hVNgVt8/download.jpg" alt="download" border="0"></a>  <a 
-href="https://twitter.com/ansh19_"><img src = "https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png" alt = "Twitter" border="0"></a>
+href="https://twitter.com/ansh19_"><img src = "https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png" alt = "Twitter" border="0"></a>  <a
+href="https://cppprogrammingblogs.blogspot.com/"><img src="https://i.ibb.co/bJtmL7D/iconfinder-blogger-317754.png" alt = "CPP Blog" border="0"></a>
 
 
