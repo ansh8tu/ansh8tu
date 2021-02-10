@@ -1,4 +1,10 @@
-### həˈlō this is Anshuman Mishra 👋
+<p align="center">  həˈlō this is Anshuman Mishra 👋</p>
+
+<p align="center">
+  <a href="http://hollowman6.github.io/">
+    <img id="logo" src="https://media.giphy.com/media/TesavnYFHngXAmlQgm/giphy.gif" width="370" />
+  </a>
+</p>
 
 Here are some ideas to get you started:
 
