@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 >
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh8tu&theme=midnight-purple&layout=compact)](https://github.com/ansh8tu/github-readme-stats)
 
+>Current Streaks
+>
+><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh8tu&theme=midnight-purple" /></p>
+
 
 > About me :
 > While you're reading this I'll probably be sleeping, listening to music or any podcast, binge watching any TV show or learning something yeah, that's it, you carry on, keep    digging my GitHub its all yours as of now, also i've something really cool to share in the next few days, brb, 
