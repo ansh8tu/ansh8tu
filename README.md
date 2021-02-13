@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<h2 align="center">To every young programmer out there, this world isn't that cruel keep trying, check my programming repositories for assistance, cheers, </h1>
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GUI Development
 - 🌱 I’m currently learning Tkinter
