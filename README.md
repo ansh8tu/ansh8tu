@@ -46,4 +46,4 @@
 <h3 align="left">Social:</h3>
 <a href="https://www.linkedin.com/in/anshuman-mishra-67b7a5190/"><img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a>  <a href="https://discordapp.com/users/748813142234234911/"><img src="https://i.ibb.co/hVNgVt8/download.jpg" alt="download" border="0"></a>  <a 
 href="https://twitter.com/ansh19_"><img src = "https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png" alt = "Twitter" border="0"></a>  <a
-href="https://cppprogrammingblogs.blogspot.com/"><img src="https://i.ibb.co/bJtmL7D/iconfinder-blogger-317754.png" alt = "CPP Blog" border="0"></a><a href="https://www.hackerrank.com/anshu8tu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anshu8tu" border="0" height="50" width="50" /></a>
+href="https://cppprogrammingblogs.blogspot.com/"><img src="https://i.ibb.co/bJtmL7D/iconfinder-blogger-317754.png" alt = "CPP Blog" border="0"></a><a href="https://www.hackerrank.com/anshu8tu"><img src="https://i.ibb.co/hHSB65N/iconfinder-160-Hackerrank-logo-logos-4373234.png" alt="anshu8tu" border="0" height="50" width="50" /></a>
