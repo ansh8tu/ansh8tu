@@ -7,10 +7,10 @@
 </p>
 
 
-- 🔭 I’m currently working on GUI Development
-- 🌱 I’m currently learning Tkinter
+- 🔭 I’m currently working on Android/IOS Development
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to contribute/collaborate to/with Open Source Projects
-- 🤔 I’m looking for help with Python Modules 
+- 🤔 I’m looking for help with Flutter web
 - 💬 Ask me about Algorithms and Programming
 - 📫 How to reach me: Check out the link in bio
 - 😄 Pronouns: peter pan
