@@ -7,6 +7,7 @@
 </p>
 
 <h3 align="center">Just like any 19 year old guy, trying to figure out what life really is!</h3>
+<h3 align="center">about me: i like to watch himym or big bang theory on the days when i don't feel like coding!</h3>
 <br><br>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh8tu&theme=midnight-purple" /></p>
