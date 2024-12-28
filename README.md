@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center">21 y/o, trying to figure out what life really is!</h3>
+<h3 align="center">23 y/o, trying to figure out what life really is!</h3>
 <h3 align="center">about me: i like to watch himym or big bang theory on the days when i don't feel like coding!</h3>
 <br><br>
 
